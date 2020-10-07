@@ -1,0 +1,14 @@
+﻿.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    border: 2.3px solid;
+    border-color: #fefefe #818181 #818181 #fefefe;
+    background: #c0c0c0;
+    background-position: center !important;
+    background-size: contain !important;
+    font: bold 100% serif;
+    cursor: default !important;
+}
